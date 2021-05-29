@@ -1,0 +1,151 @@
+*{
+    padding:0;
+    box-sizing:border-box;
+}
+
+.clear { clear: both;}
+
+/*Start section 1*/
+.header { background-image: url("https://img5.goodfon.com/wallpaper/big/9/4c/lampa-svet-fon.jpg");
+              margin-left: 100px;
+              border-top: 1px solid white;
+               border-top-left-radius: 25px;
+               margin-top: 50px;
+               color: white;
+               height: 250px;}
+ 
+ .header .content-header span{ margin:50px;
+                         color: #999;}
+                         
+ .header .content-header h1{ margin-top: 50px;
+                             margin-left: 50px;
+                             text-transform: capitalize;}
+                       
+ .header .content-header button{border: 1px solid #A00315;
+                                background-color: #A00315;
+                                border-radius:12px;
+                                padding:10px;
+                                width:9%;
+                                margin-top:20px;
+                                margin-left: 50px;
+                                font-weight: bold;}
+/* End section 1*/
+
+/*Start section 2*/
+
+.MyWorks h1{text-align: center;
+          text-transform: capitalize;
+         font-size: 40px;
+         }
+         
+ .MyWorks ul{ text-align: center;}
+ 
+ .MyWorks ul li { margin:0 20px 0 20px;
+               display: inline;
+               }
+               
+.MyWorks ul li span{ color: #A00315;
+                    font-weight: bold; }
+.MyWorks .works-images { margin-top:5px;
+                         margin-left: 120px;
+                         }
+
+.MyWorks .works-images .works-images-content{ width:28%;
+                                            height:300px;
+                                             float: left;
+                                             margin: 5px 10px;}
+/*End section 2*/
+
+
+/*start section 3*/
+.designquality{ width:100%;
+                height:400px;
+                background-color:rgb(254,251,255);
+                margin-top:100px;
+               }
+.design-img{background-image: url("../IMG/128406300_2881870468715548_2126516179594660012_n.jpg");
+             width:30%;
+             height:100%;
+             float:right;
+             margin-right:200px;
+             background-position:center; }
+
+.design-img img{ width:30%;
+                 height:30%; 
+                 position: relative;
+                 top:270px;
+                left:10px;
+                margin:2px;
+                border:2px solid white;}
+
+.design-text{width:30%;
+           float:left;
+           margin-left:200px;
+           margin-top:50px;}
+         
+.design-text h1{font-size:35px;
+              padding-bottom:20px;
+              color:red;  }
+.design-text p{font-size:20px;
+               color: #9f9d9e;
+               line-height:1.5;
+               }
+/*end section 3*/
+
+/* Start section 4*/
+.updates{  margin: 70px 150px;
+          line-height:1.7;}
+         
+ .updates h1{ text-align: center;
+            text-transform: capitalize;
+            margin-bottom: 15px;
+            font-size:30px;}
+            
+ .updates .updates-content { background-color:rgb(247, 244, 244);
+                             width: 300px;
+                             float: left;
+                              margin: 20px 7px;}
+                              
+.updates h3{ margin-left: 20px;
+             margin-bottom:15px;
+             text-align: left; }
+ .updates .updates-image{  margin-left: 30px;
+                           width: 80%;
+                           height:150px;
+                           border-radius:10px;}
+                     
+ .updates .updates-content figcaption{ padding-top: 20px;
+                                       display: flex;
+                                       justify-content: space-around;
+                                       align-items: center;
+                                       margin-right: 10px;
+                                       padding-bottom: 30px;
+                                       text-transform: capitalize; }
+.updates .updates-content figcaption .updates-icon{ border-radius: 50%;
+                                                    width:14%;
+                                                    height:14%;
+                                                    margin-left: 15px;}
+ /*End section 4*/
+
+/*Start section 5*/
+.feedback { text-transform: capitalize;}
+.feedback .feedback-content{ width: 50%;
+                             float: left;
+                             background-color: #F7F7F7}
+                       
+ .feedback .feedback-content img{ margin-left: 100px;}
+ 
+ .feedback .feedback-content input{ border: hidden;  background-color: #F7F7F7}
+ 
+ .feedback .feedback-content .firstform .firstinput { float: left; margin-right:100px;}
+ 
+  .feedback .feedback-content .firstform .secondinput{margin-top: 20px;}
+ 
+  .feedback .feedback-content .firstform .thirdinput{ margin-top:20px; margin-bottom: 40px}
+ 
+   .feedback .feedback-content button{ background-color:#A00315;
+                                       border: 1px solid #A00315;
+                                       width: 14%;
+                                       padding:5px;
+                                       margin-left: 565px}
+/*End section 5 */
